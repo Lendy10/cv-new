@@ -1,0 +1,205 @@
+ body {
+   background-color: #d0e8f2;
+   text-align: center;
+ }
+ .H1_1 {
+   color: #66BFBF;
+   font-family: 'Sacramento'  , serif;
+   font-size: 3.75rem;
+   text-align: center;
+   margin-left: -40px;
+   margin-top: 0;
+   margin-bottom: 0;
+ }
+
+ .H1_2 {
+   color: #66BFBF;
+   font-family: 'Merriweather', serif;
+   font-size: 1.5625rem;
+   font-weight: normal;
+   text-align: center;
+   margin: 20px auto 0 auto;
+ }
+
+ p {
+   color: #40514E;
+   font-size: 1.3rem;
+     line-height: 2;
+ }
+
+ .Heading1 {
+   background-color: #fff76a;
+   padding-top: -20px;
+   margin: 10px 10px 10px 10px;
+   font-family: Ubuntu;
+   text-align: center;
+ }
+ .Medium-container {
+   display: inline;
+   position: absolute;
+   margin: auto;
+   left: 0;
+   right: 0;
+   top: 400px;
+ }
+ .High-container {
+   display: inline;
+   position: relative;
+   right: -100px;
+   top: 80px;
+ }
+ #Cloud-2 {
+   height: 50px;
+ }
+.Low-container {
+  display: inline;
+  padding: 20px;
+}
+h3 {
+  color: #11999E;
+  font-size: 1.2rem;
+  text-align: center;
+}
+h2 {
+  margin: 30px auto auto auto;
+  color: #11999E;
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+#Cloud-1 {
+  height: 50px;
+  position: relative;
+  margin-bottom: 60px;
+  display: block;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  left: 570px;
+}
+
+.Sec {
+  position: relative;
+  top: 500px;
+  margin: auto -7px auto -7px;
+  height: auto;
+  background-color: #fcf8ec;
+  font-family: 'Montserrat';
+  border-top-left-radius: 16%;
+  border-top-right-radius: 16%;
+}
+.Profile_pic {
+  width: 250px;
+  height: 250px;
+  display: block;
+  border-radius: 50%;
+  margin: auto;
+  padding-top: 30px;
+}
+hr {
+  border-style: dotted none none none;
+  color: #456268;
+  border-width: 12px;
+  width: 80px;
+}
+
+a {
+  color: #11999E;
+}
+.skill-row {
+  width: 50%;
+  height: 500px;
+    font-size: 1.3rem;
+  background-color: pink;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.Title {
+  font-size: 1.5rem;
+  text-align: left;
+  margin: auto;
+  padding-left: 245px;
+  position: relative;
+  top: -250px;
+}
+.Skill {
+  width: 900px;
+  height: 600px;
+  display: block;
+  margin: 50px 280px auto auto;
+}
+.SQL_img {
+  position: relative;
+  width: 25%;
+  height: 25%;
+  right: 250px;
+  top: 10px;
+}
+#SQL {
+  position: relative;
+  color: #11999E;
+  bottom: 30%;
+  text-align: left;
+  margin-left: 3%;
+
+}
+.SQL_desc {
+  text-align: justify;
+  position: relative;
+  margin-left: 3%;
+  bottom: 30%;
+
+}
+.Desc_Prof {
+  width: 1000px;
+  display: block;
+  margin:auto;
+  text-align: justify;
+}
+.footer {
+  background-color: black;
+}
+.Button {
+  border-radius: 8px;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-bottom: 100px;
+  margin-top: 50px;
+  font-family: 'Montserrat';
+}
+.Button1 {
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  color: white;
+  border: 2px solid;
+}
+.Button:hover {
+  background-color: #4CAF50;
+  color: white;
+  transform: scale(1.1);
+}
+.bottom-container {
+  width: 100%;
+  height: 150px;
+  background-color: #66BFBF;
+  margin: 30px auto 100px auto;
+}
+.footer-link {
+  text-decoration: none;
+  margin: 30px 40px 30px 40px;
+  color: #11999E;
+  font-weight: bold;
+  position: relative;
+  top: 40px;
+}
+.copyright {
+  color: #EAF6F6;
+  position: relative;
+  top: 60px;
+  font-size: 1rem;
+}
